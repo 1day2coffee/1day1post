@@ -1,0 +1,1 @@
+OLC CENTER에서 Kernel of Linux 강의를 요약한 내용
